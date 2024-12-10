@@ -121,17 +121,17 @@ En este proyecto, presentamos una propuesta integral de transformación digital 
 - Mejora de márgenes operativos al reducir costos innecesarios.
 - Capacidad para responder ágilmente a las fluctuaciones del mercado.
 
-#### Beneficios Económicos:
+#### Económicos:
 - Aumento en la rentabilidad.
 - Optimización de inventarios.
 - Retorno de inversión acelerado.
 
-#### Beneficios Ambientales y de Sostenibilidad:
+#### Ambientales y de Sostenibilidad:
 - Reducción de huella de carbono.
 - Cumplimiento regulatorio avanzado.
 - Economía circular (mayor aprovechamiento de recursos).
 
-#### Beneficios Estratégicos:
+#### Estratégicos:
 - Capacidad para prever tendencias del mercado. 
 - Sinergia entre áreas.
 - Adaptabilidad tecnológica.
