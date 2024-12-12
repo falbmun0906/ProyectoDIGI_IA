@@ -72,7 +72,7 @@ En este proyecto, presentamos una propuesta integral de transformación digital 
 
 ## Diagrama IT/OT con Mermaid
 
-![image](https://github.com/user-attachments/assets/8fd68d28-4f0f-486c-8ba8-8425ada597fb)
+![image](diagrama.png)
 
 ---
 
